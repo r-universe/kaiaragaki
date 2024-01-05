@@ -2,6 +2,12 @@
   {
     "package": "amplify",
     "url": "https://github.com/KaiAragaki/amplify",
+    "via": ["blotbench", "bladdr", "mop"],
+    "from": "blotbench"
+  },
+  {
+    "package": "amplify",
+    "url": "https://github.com/KaiAragaki/amplify",
     "via": ["mop"],
     "from": "mop"
   },
@@ -20,6 +26,12 @@
   {
     "package": "bladdr",
     "url": "https://github.com/McConkeyLab/bladdr",
+    "via": ["blotbench"],
+    "from": "blotbench"
+  },
+  {
+    "package": "bladdr",
+    "url": "https://github.com/McConkeyLab/bladdr",
     "via": ["reclanc", "cellebrate"],
     "from": "reclanc"
   },
@@ -34,6 +46,12 @@
     "url": "https://github.com/KaiAragaki/gplate",
     "via": ["amplify"],
     "from": "amplify"
+  },
+  {
+    "package": "gplate",
+    "url": "https://github.com/KaiAragaki/gplate",
+    "via": ["blotbench", "bladdr"],
+    "from": "blotbench"
   },
   {
     "package": "gplate",
@@ -64,6 +82,12 @@
     "url": "https://github.com/KaiAragaki/mop",
     "via": ["amplify"],
     "from": "amplify"
+  },
+  {
+    "package": "mop",
+    "url": "https://github.com/KaiAragaki/mop",
+    "via": ["blotbench", "bladdr"],
+    "from": "blotbench"
   },
   {
     "package": "mop",
