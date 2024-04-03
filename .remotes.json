@@ -1,9 +1,21 @@
 [
   {
+    "package": "amplify",
+    "url": "https://github.com/KaiAragaki/amplify",
+    "via": ["mop"],
+    "from": "mop"
+  },
+  {
     "package": "gplate",
     "url": "https://github.com/KaiAragaki/gplate",
     "via": ["amplify"],
     "from": "amplify"
+  },
+  {
+    "package": "gplate",
+    "url": "https://github.com/KaiAragaki/gplate",
+    "via": ["mop"],
+    "from": "mop"
   },
   {
     "package": "mop",
