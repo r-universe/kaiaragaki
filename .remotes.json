@@ -6,6 +6,12 @@
     "from": "mop"
   },
   {
+    "package": "amplify",
+    "url": "https://github.com/KaiAragaki/amplify",
+    "via": ["qp", "mop"],
+    "from": "qp"
+  },
+  {
     "package": "gplate",
     "url": "https://github.com/KaiAragaki/gplate",
     "via": ["amplify"],
@@ -18,9 +24,21 @@
     "from": "mop"
   },
   {
+    "package": "gplate",
+    "url": "https://github.com/KaiAragaki/gplate",
+    "via": ["qp"],
+    "from": "qp"
+  },
+  {
     "package": "mop",
     "url": "https://github.com/KaiAragaki/mop",
     "via": ["amplify"],
     "from": "amplify"
+  },
+  {
+    "package": "mop",
+    "url": "https://github.com/KaiAragaki/mop",
+    "via": ["qp"],
+    "from": "qp"
   }
 ]
