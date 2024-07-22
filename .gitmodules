@@ -5,9 +5,17 @@
 [submodule "amplify"]
 	path = amplify
 	url = https://github.com/KaiAragaki/amplify
+[submodule "bladdr"]
+	path = bladdr
+	url = https://github.com/McConkeyLab/bladdr
+	registered = false
 [submodule "blotbench"]
 	path = blotbench
 	url = https://github.com/KaiAragaki/blotbench
+[submodule "cellebrate"]
+	path = cellebrate
+	url = https://github.com/McConkeyLab/cellebrate
+	registered = false
 [submodule "classifyBLCA"]
 	path = classifyBLCA
 	url = https://github.com/KaiAragaki/classifyBLCA

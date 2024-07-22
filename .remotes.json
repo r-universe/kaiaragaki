@@ -12,6 +12,24 @@
     "from": "qp"
   },
   {
+    "package": "amplify",
+    "url": "https://github.com/KaiAragaki/amplify",
+    "via": ["reclanc", "cellebrate", "bladdr", "mop"],
+    "from": "reclanc"
+  },
+  {
+    "package": "bladdr",
+    "url": "https://github.com/McConkeyLab/bladdr",
+    "via": ["reclanc", "cellebrate"],
+    "from": "reclanc"
+  },
+  {
+    "package": "cellebrate",
+    "url": "https://github.com/McConkeyLab/cellebrate",
+    "via": ["reclanc"],
+    "from": "reclanc"
+  },
+  {
     "package": "gplate",
     "url": "https://github.com/KaiAragaki/gplate",
     "via": ["amplify"],
@@ -30,6 +48,12 @@
     "from": "qp"
   },
   {
+    "package": "gplate",
+    "url": "https://github.com/KaiAragaki/gplate",
+    "via": ["reclanc", "cellebrate", "bladdr"],
+    "from": "reclanc"
+  },
+  {
     "package": "mop",
     "url": "https://github.com/KaiAragaki/mop",
     "via": ["amplify"],
@@ -40,5 +64,11 @@
     "url": "https://github.com/KaiAragaki/mop",
     "via": ["qp"],
     "from": "qp"
+  },
+  {
+    "package": "mop",
+    "url": "https://github.com/KaiAragaki/mop",
+    "via": ["reclanc", "cellebrate", "bladdr"],
+    "from": "reclanc"
   }
 ]
