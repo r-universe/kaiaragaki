@@ -37,3 +37,6 @@
 [submodule "thermos"]
 	path = thermos
 	url = https://github.com/KaiAragaki/thermos
+[submodule "tidyestimate"]
+	path = tidyestimate
+	url = https://github.com/KaiAragaki/tidyestimate
